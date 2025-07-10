@@ -1,0 +1,2 @@
+30 23 28-31 * * [ $(date -d +1day +%d) -eq 1 ] /home/ubuntu/login.sh
+
