@@ -7,7 +7,7 @@ then
          sudo apt update
          sudo apt install -y nginx
          sudo systemctl start nginx
-         sudo systemctl status nginx
+         sudo systemctl enable nginx
          sudo systemctl status nginx
 else
         echo "nginx already installed "
