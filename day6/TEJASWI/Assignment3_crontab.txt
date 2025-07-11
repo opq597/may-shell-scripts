@@ -1,5 +1,5 @@
 MAILTO="ubuntu"
-* 22 * * * /home/ubuntu/practice/Assignment2_disk_usage.sh>>/home/ubuntu/practice/disk_usage.log
+0 22 * * * /home/ubuntu/practice/Assignment2_disk_usage.sh>>/home/ubuntu/practice/disk_usage.log
 
 # Edit this file to introduce tasks to be run by cron.
 # 
