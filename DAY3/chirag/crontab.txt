@@ -1,0 +1,2 @@
+#Write a cron expression to run a script at 11:30 PM on the last day of every month.
+30 23 28-31 * * echo "[ $(date -d +1day +%d) -eq 1 ]"
