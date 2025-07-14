@@ -1,0 +1,6 @@
+username:user_id:mail_id:phone_no
+TEJASWI:56:abc@gmail.com:9876543210
+PRIYA:57:cvb@gmail.com:9879879870
+AKHIL:58:bvs@gmail.com:6767898956
+SAHITHI:78:sah@gmail.com:1231231230
+shreya:59:jhg@gmail.com:7878676755
